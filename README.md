@@ -16,7 +16,7 @@ Organized project structure for scalability
 
 📸 Screenshot
 
-![MiniShop Screenshot](./preview.png)
+![MiniShop Screenshot](./Preview.png)
 
 🛠️ Tech Stack
 Laravel 10+
